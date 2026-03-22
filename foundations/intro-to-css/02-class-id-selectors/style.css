@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.first-class {
+    font-family: Verdana, Deja Vu, sans-serif;
+    background-color: rgba(255, 136, 182, 0.656);
+}
+
+.better {
+    font-size: 24px;
+}
+
+ #first {
+    color: rgb(11, 116, 120);
+    font-size: 36px;
+ }
+
+ #another {
+    font-weight: bold;
+    background-color: rgb(182, 224, 182);
+    font-size: 24px;
+ }
